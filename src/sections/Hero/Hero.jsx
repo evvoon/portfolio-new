@@ -36,13 +36,16 @@ function Hero() {
         </h1>
         <h2>Fullstack Developer</h2>
         <span>
-          <a href="https://twitter.com/" target="_blank">
+          <a href="https://twitter.com/MariyamJoory" target="_blank">
             <img src={twitterIcon} alt="Twitter Icon" />
           </a>
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/evvoon" target="_blank">
             <img src={githubIcon} alt="Github Icon" />
           </a>
-          <a href="https://linkedin.com/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/mariyam-joory-807912230/"
+            target="_blank"
+          >
             <img src={linkedinIcon} alt="Linkedin Icon" />
           </a>
         </span>

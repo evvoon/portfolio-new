@@ -12,6 +12,10 @@
     border-radius: 20px;
   }
 
+  p {
+    font-size: 15px;
+  }
+
   a {
     width: fit-content;
     text-decoration: none;
