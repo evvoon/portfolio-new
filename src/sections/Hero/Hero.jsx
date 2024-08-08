@@ -47,13 +47,11 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          with a passion for developing modern react apps for commerical
-          businesses
+          Cat lover 🐱 <br /> Art enthusiast. <br /> Lets create magic together
+          ✨
         </p>
         <a href={CV}>
-          <button className="hover" download>
-            Resume
-          </button>
+          <button className="hover">Resume</button>
         </a>
       </div>
     </section>

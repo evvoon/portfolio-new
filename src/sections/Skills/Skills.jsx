@@ -16,9 +16,16 @@ function Skills() {
       <hr />
       <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="React" />
-        <SkillList src={checkMarkIcon} skill="Vue" />
+        <SkillList src={checkMarkIcon} skill="Vite" />
         <SkillList src={checkMarkIcon} skill="Tailwind" />
         <SkillList src={checkMarkIcon} skill="Git" />
+      </div>
+      <hr />
+      <div className={styles.skillList}>
+        <SkillList src={checkMarkIcon} skill="Svelte" />
+        <SkillList src={checkMarkIcon} skill="Next.js" />
+        <SkillList src={checkMarkIcon} skill="MongoDB" />
+        <SkillList src={checkMarkIcon} skill="Express" />
       </div>
     </section>
   );

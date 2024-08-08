@@ -17,11 +17,12 @@ function Projects() {
           h3="Chess"
           p="Built with Reactjs"
         />
+
         <ProjectCard
-          src={stream}
-          link={"https://github.com/evvoon/chat-application"}
-          h3="Chat Application"
-          p="Built with stream and Reactjs"
+          src={race}
+          link={"https://r3f-race-game.vercel.app/"}
+          h3="Race Ball Game"
+          p="made with Threejs"
         />
         <ProjectCard
           src={maps}
@@ -29,11 +30,12 @@ function Projects() {
           h3="Google Maps Clone"
           p="Made with Mapbox API"
         />
+
         <ProjectCard
-          src={race}
-          link={"https://r3f-race-game.vercel.app/"}
-          h3="Race Ball Game"
-          p="made with Threejs"
+          src={stream}
+          link={"https://github.com/evvoon/chat-application"}
+          h3="Chat Application"
+          p="Built with stream and Reactjs"
         />
         <ProjectCard
           src={stopwatch}
