@@ -1,9 +1,9 @@
 import styles from "./ProjectsStyles.module.css";
-import chess from "../../assets/chess.png";
-import stream from "../../assets/stream-app.png";
-import maps from "../../assets/google-maps-clone.png";
-import race from "../../assets/race-ball-game.png";
-import stopwatch from "../../assets/stopwatch.png";
+import chess from "../../assets/chess.png?format=webp&w=500";
+import stream from "../../assets/stream-app.png?format=webp&w=500";
+import maps from "../../assets/google-maps-clone.png?format=webp&w=500";
+import race from "../../assets/race-ball-game.png?format=webp&w=500";
+import stopwatch from "../../assets/stopwatch.png?format=webp&w=500";
 import ProjectCard from "../../common/ProjectCard";
 
 function Projects() {
